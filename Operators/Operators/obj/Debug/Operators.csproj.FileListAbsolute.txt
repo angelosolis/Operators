@@ -1,0 +1,11 @@
+C:\Users\solis\source\repos\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\solis\source\repos\Operators\Operators\obj\Debug\Operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\solis\source\repos\Operators\Operators\obj\Debug\Operators.Form1.resources
+C:\Users\solis\source\repos\Operators\Operators\obj\Debug\Operators.Properties.Resources.resources
+C:\Users\solis\source\repos\Operators\Operators\obj\Debug\Operators.csproj.GenerateResource.cache
+C:\Users\solis\source\repos\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\solis\source\repos\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\solis\source\repos\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\solis\source\repos\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\solis\source\repos\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\solis\source\repos\Operators\Operators\obj\Debug\Operators.pdb
